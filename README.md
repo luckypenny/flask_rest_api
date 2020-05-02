@@ -9,6 +9,7 @@ $ git clone https://github.com/luckypenny/flask_rest_api.git
 ## Running (docker container)
 - Run docker container(s) using docker compose file.
 ```
+$ cd flask_rest_api
 $ docker-compose up -d 
 ```
 
